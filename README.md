@@ -2,7 +2,7 @@
 
 A real-time bookmark manager built with Next.js, Supabase, and Tailwind CSS. Users can sign in with Google, save bookmarks, and see changes sync across tabs in real-time.
 
-**Live URL:** [https://quickmark-app.vercel.app](https://quickmark-app.vercel.app) *(update after deployment)*
+**Live URL:** [https://quick-mark-rosy.vercel.app](https://quick-mark-rosy.vercel.app)
 
 ## Features
 
